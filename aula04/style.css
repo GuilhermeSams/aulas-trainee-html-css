@@ -1,0 +1,23 @@
+:root {
+    --tam-titulo: 40px;
+    --tam-paragrafo: 24px;
+    --cor-vermelha: #FF0000;
+    --cor-verde: #00FF00;
+    --cor-azul: #0000FF;
+    --font-paragrafo: Arial, sans-serif;
+}
+
+h1 {
+    font-size: var(--tam-titulo);
+    color: var(--cor-vermelha);
+}
+
+.p1 {
+    color: var(--cor-azul);
+    font-size: var(--font-paragrafo);
+    font-family: var(--tam-paragrafo);
+}
+
+.p2 {
+    color: var(--cor-verde);
+}

@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+div {
+    padding: 10px;
+}
+
+.campo_email input[type="email"],
+.campo_senha input[type="password"] {
+    padding: 5px;
+    border-radius: 5px;
+}

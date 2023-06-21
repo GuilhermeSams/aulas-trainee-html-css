@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+nav > ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: rgba(128, 128, 128, 0.296);
+    height: 4rem;
+    align-items: center;
+    font-style: italic;
+}
+
+.nav_bar {
+    background-color: red;
+}
+
+a {
+    color: black;
+}
+
+li > a:hover {
+    color: white;
+}
+
+.div1 {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}
+
+.div1:hover {
+    background-color: green;
+}
+
+.link_pseudoelem::after {
+    content: " (texto passado pelo css)";
+}
+
+p::first-letter {
+    font-size: 24px;
+}

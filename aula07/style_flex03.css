@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.flex-pai {
+    display: flex;
+    background-color: blue;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* flex-flow: column wrap; FORMA ABREVIADA DE FLEX-DIRECTION E FLEX-WARAP*/
+    height: 600px;
+    justify-content: center;
+    align-content: center;
+}
+
+.flex-pai div {
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+@media screen and (max-width: 768px){
+    .flex-pai {
+        flex-direction: column;
+    }    
+}

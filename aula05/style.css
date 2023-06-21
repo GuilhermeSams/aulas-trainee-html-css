@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    width: 20%;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: gray;
+}
+
+.valor {
+    text-align: right;
+}
+
+.qntd {
+    text-align: center;
+}
