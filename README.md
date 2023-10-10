@@ -3,4 +3,5 @@ Este repositório foi usado pra eu dar aula de HTML e CSS pra um grupo de Traine
 
 # Links dos vídeos das aulas
 Parte 1 - https://www.youtube.com/watch?v=3kpinYSEidk
+
 parte 2 - https://www.youtube.com/watch?v=0P_8s1BFg6I
