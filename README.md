@@ -1,5 +1,5 @@
 # aulas-trainee-html-css
-Este repositório foi usado pra eu dar aula de HTML e CSS pra um grupo de Trainees da Struct, Empresa Junior de Engenharia de Computação da Universidade de Brasília
+Este repositório foi criado por mim e usado pra eu dar aula de HTML e CSS pra um grupo de Trainees da Struct, Empresa Junior de Engenharia de Computação da Universidade de Brasília
 
 # Links dos vídeos das aulas
 Parte 1 - https://www.youtube.com/watch?v=3kpinYSEidk
